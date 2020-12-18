@@ -13,7 +13,7 @@ MongoDB est un système de gestion de base de données orienté documents. Il es
 
 MongoDB permet de manipuler des objets structurés au format BSON (JSON binaire), sans schéma prédéterminé. En d'autres termes, des clés peuvent être ajoutées à tout moment, sans reconfiguration de la base.
 
-Les documents seront disponibles sur Github à cette adresse:
+Les documents seront disponibles sur Github à cette adresse:https://github.com/Schouman/movies-spinoff-mongodb
 
 
 Nous disposons de la movies.csv dans le dossier "movies csv"
