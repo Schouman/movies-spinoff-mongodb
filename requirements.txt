@@ -1,0 +1,6 @@
+jupyterlab
+pymongo
+MongoClient
+csv
+json
+
